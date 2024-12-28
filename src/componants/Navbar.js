@@ -86,7 +86,7 @@ const Navbar = () => {
 
                 <li>
                   <div class="d-flex justify-content-between color-white">
-                    <Link href="/services">Services</Link>
+                    <Link href="/our-program">Our Program</Link>
                    
                   </div>
 

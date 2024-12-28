@@ -67,7 +67,8 @@ const Service = () => {
             <div className="col-xl-6 col-lg-6 pb-10">
               <div className="mb-30  " data-aos="fade-right">
                 <div className="section-title-2">
-                  <h2>Our Programs....</h2>
+                  <h2>Restore Your Digestive Balance, Reclaim Your Vitality
+                  </h2>
                 </div>
                 <div className="about-text  ">
                   <p className="mb-5">
@@ -140,7 +141,7 @@ const Service = () => {
                 </div>
                 <hr />
                 <div>
-                <a class="btn-process theme-btn mt-4" href="">Read MOre...</a>
+                <a class="btn-process theme-btn mt-4" href="/one-one-gut-reset-revolution">Read MOre...</a>
                 </div>
               </div>
 
@@ -179,7 +180,7 @@ const Service = () => {
                 </div>
                 <hr />
                 <div>
-                <a class="btn-process theme-btn mt-4" href="">Read MOre...</a>
+                <a class="btn-process theme-btn mt-4" href="/gut-and-glory">Read MOre...</a>
                 </div>
               </div>
             </div>  <div class="col-md-4">
@@ -247,14 +248,8 @@ const Service = () => {
               data-aos="fade-up"
             >
               <p className="heading-desc color-white mb-20 fw-bold">
-                Lorem Clinic provides a wide variety of services to help meet
-                your needs and provide a one-stop-shop! At Lorem Clinic, we go
-                above and beyond the clinical aspect and provide services that
-                help you gain the most out of your healthcare experience. We
-                want to make sure that you have access to as many benefits and
-                programs as possible so that you and your family can stay
-                healthy and happy! Outside of just primary care, we have an
-                expert team of providers from varying disciplines, including:.
+              Our additional services are designed to support your overall health and wellness
+
               </p>
             </div>
           </div>
@@ -279,13 +274,8 @@ const Service = () => {
                   <div className="weeklist">
                     <h4 className="fancybox-title">Nutrition Consultation</h4>
                     <p className="box-text">
-                      With the rise of obesity and accessibility of processed
-                      foods, at Lorem Clinic, we know that it is important to
-                      maintain a well balanced meal in conjunction with an
-                      active lifestyle. Our registered dietitian provides
-                      one-on-one consultations as well as group visits to
-                      provide a personalized health plan for you to achieve and
-                      maintain the healthy lifestyle you desire!{" "}
+                    Maintaining a well-balanced diet is crucial for health. Our registered dietitian provides personalized consultations to help you achieve your health goals with practical meal plans tailored to your lifestyle.
+                    {" "}
                     </p>
                   </div>
                 </div>
@@ -308,11 +298,8 @@ const Service = () => {
                   <div className="weeklist">
                     <h4 className="fancybox-title">Pulmonology </h4>
                     <p>
-                      Partnering with the Methodist Hospital System, Lorem
-                      Clinic combines the expertise of providers from the
-                      medical center with the convenience of the Lorem Clinic
-                      location to help manage patients in need of a
-                      pulmonologist.{" "}
+                    In collaboration with the Methodist Hospital System, our pulmonology services address respiratory health with top-tier expertise. Whether managing chronic conditions or addressing new concerns, our specialists provide convenient and reliable care.
+                    {" "}
                     </p>
                   </div>
                 </div>
@@ -345,13 +332,13 @@ const Service = () => {
             <div className="col-xl-6 col-lg-6">
               <div className="about-right pt-15 mb-30" data-aos="fade-right">
                 <div className="section-title-2 mb-20">
-                  <h2>Why Choose Lorem Clinic</h2>
+                  <h2>Why Choose Gut Cleanse?
+                  </h2>
                 </div>
                 <div className="about-text pr-5">
                   <p>
-                    Lorem Clinic might be a good choice for several reasons,
-                    depending on what you&apos;re looking for. Here are some
-                    common reasons people choose clinics like Lorem:
+                  Living with digestive discomfort impacts every aspect of your life. Symptoms like bloating, gas, and indigestion can be overwhelming. At Gut Cleanse, we delve into the root causes of these issues and offer practical, natural solutions tailored to your lifestyle.
+
                   </p>
                   <ul className="list-item">
                     <li>
@@ -367,7 +354,8 @@ const Service = () => {
                             style={{ width: "auto", height: "auto" }}
                           />
                         </span>{" "}
-                        Comprehensive Care
+                        Comprehensive Care: Addressing the root causes of digestive issues.
+
                       </h4>
                     </li>
                     <li>
@@ -383,7 +371,8 @@ const Service = () => {
                             style={{ width: "auto", height: "auto" }}
                           />
                         </span>{" "}
-                        Experienced Staff
+                        Experienced Experts: A dedicated team specializing in digestive wellness.
+
                       </h4>
                     </li>
                     <li>
@@ -399,7 +388,8 @@ const Service = () => {
                             style={{ width: "auto", height: "auto" }}
                           />
                         </span>{" "}
-                        Patient-Centered Approach
+                        Holistic Solutions: Combining modern science with time-tested healing traditions.
+
                       </h4>
                     </li>
                     <li>
@@ -415,7 +405,8 @@ const Service = () => {
                             style={{ width: "auto", height: "auto" }}
                           />
                         </span>{" "}
-                        Affordability
+                        Proven Results: Over 1,200+ lives transformed across 21+ countries.
+
                       </h4>
                     </li>
                     <li>
@@ -431,25 +422,11 @@ const Service = () => {
                             style={{ width: "auto", height: "auto" }}
                           />
                         </span>{" "}
-                        Community-Focused
+                        Client Satisfaction: 99%+ satisfaction rate.
+
                       </h4>
                     </li>
-                    <li>
-                      <h4>
-                        <span className="">
-                          <Image
-                            src="/dna.png"
-                            alt="arrow"
-                            className="fa-spin"
-                            width={0}
-                            height={0}
-                            sizes="100vw"
-                            style={{ width: "auto", height: "auto" }}
-                          />
-                        </span>{" "}
-                        Convenient Location and Hours
-                      </h4>
-                    </li>
+                   
                   </ul>
                 </div>
 
