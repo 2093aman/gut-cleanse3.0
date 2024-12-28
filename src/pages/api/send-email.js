@@ -26,8 +26,8 @@ export default async function handler(req, res) {
     try {
       // Send the email
       let info = await transporter.sendMail({
-        from: 'webmaster@hopechc.org', 
-        to: 'webmaster@hopechc.org', 
+        from: '', 
+        to: '', 
         subject: subject, 
         text: text, 
       });
