@@ -10,12 +10,12 @@ export default async function handler(req, res) {
 
     // Create a transporter object using SMTP transport
     let transporter = nodemailer.createTransport({
-      host: 'smtp-mail.outlook.com', 
+      host: 'smtp.hostinger.com', 
       port: 587, 
       secure: false, 
       auth: {
-        user: 'webmaster@hopechc.org',
-        pass: 'C$073121745911ah',
+        user: 'nancy@gutcleanse.in',
+        pass: 'NancyGut2025!@',
       },
       tls: {
         rejectUnauthorized: false, 
@@ -26,8 +26,8 @@ export default async function handler(req, res) {
     try {
       // Send the email
       let info = await transporter.sendMail({
-        from: '', 
-        to: '', 
+        from: 'nancy@gutcleanse.in', 
+        to: 'nancy@gutcleanse.in', 
         subject: subject, 
         text: text, 
       });

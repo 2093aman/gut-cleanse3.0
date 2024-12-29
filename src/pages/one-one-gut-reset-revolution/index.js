@@ -58,7 +58,7 @@ const Intelligence = () => {
 
   return (
     <div>
-      <div className="entry-banner entry-banner-after  bg-common bgservices ">
+      <div className="entry-banner entry-banner-after  bg-common bgoneonone ">
         {/* <ReactPlayer
 					url="/video2.mp4"
 					playing={true}
@@ -119,6 +119,9 @@ const Intelligence = () => {
                   </p>
                 </div>
 
+              </div>
+              <div class="call-to-action-btn ">
+                <a href="https://pages.razorpay.com/GutResetRevolution" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Reserve Now</span></a>
               </div>
             </div>
           </div>
@@ -627,11 +630,11 @@ const Intelligence = () => {
 
             <div className="col-sm-12 col-md-12 col-lg-12 col-xl-12 ">
 
-              <h3 className=" text-center">Reserve your spot now at ₹2999 and reclaim your health with a sustainable, holistic approach to wellness.
+              <h3 className=" text-center">Reserve your spot now and reclaim your health with a sustainable, holistic approach to wellness.
               </h3>
 
               <div class="call-to-action-btn paybtn">
-                <a href="https://wa.me/9779994422" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Byu Now</span></a>
+                <a href="https://pages.razorpay.com/GutResetRevolution" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Reserve Now</span></a>
               </div>
 
             </div>
