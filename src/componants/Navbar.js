@@ -10,7 +10,6 @@ import Link from "next/link";
 import { useState } from "react";
 import { useEffect } from "react";
 import Translate from "./TranslateComponent";
-
 const Navbar = () => {
   const [openDropdown, setOpenDropdown] = useState(null);
 
@@ -86,7 +85,7 @@ const Navbar = () => {
 
                 <li>
                   <div class="d-flex justify-content-between color-white">
-                    <Link href="/our-program">Our Program</Link>
+                    <Link href="/programs">Our Programs</Link>
                    
                   </div>
 
@@ -169,7 +168,7 @@ const Navbar = () => {
                         
                       </li>
                       <li>
-                        <Link href="/our-program">Our Program</Link>
+                        <Link href="/programs">Our Programs</Link>
 
                        
                       </li>
@@ -197,11 +196,11 @@ const Navbar = () => {
 								<div className="template-main-menu " >
 									<nav id="dropdown">
 										<ul>
-											<li>
+											{/* <li>
 												<Link target="" href="" className="btn-red ">login</Link>
 												
 											</li>
-											
+											 */}
 									
 										</ul>
 								</nav>

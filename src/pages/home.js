@@ -480,7 +480,7 @@ const home = () => {
                     />
                   </div>
                   <h3 className="item-title">
-                    <Link href="/our-program">Gut Reset Revolution™</Link>
+                    <Link href="/our-program">1:1 Gut Reset Revolution™</Link>
                   </h3>
                   <p>
                     Transform your relationship with health through our

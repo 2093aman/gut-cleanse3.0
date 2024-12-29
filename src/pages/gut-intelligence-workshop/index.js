@@ -58,7 +58,7 @@ const Intelligence = () => {
 
   return (
     <div>
-      <div className="entry-banner entry-banner-after  bg-common bgservices ">
+      <div className="entry-banner entry-banner-after  bg-common gut-intelligence-workshop ">
         {/* <ReactPlayer
 					url="/video2.mp4"
 					playing={true}
@@ -115,7 +115,9 @@ const Intelligence = () => {
                     Discover how a thriving gut ecosystem shapes your physical and mental wellbeing through this transformative online workshop.
                   </p>
                 </div>
-
+                <div class="call-to-action-btn ">
+                <a href="https://pages.razorpay.com/gutintelligenceworkshop" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Reserve Now</span></a>
+              </div>
               </div>
             </div>
           </div>
@@ -584,7 +586,7 @@ const Intelligence = () => {
               <h3 className=" text-center">Reserve your spot now at ₹299 and begin your journey to optimal health. </h3>
 
               <div class="call-to-action-btn paybtn">
-                <a href="https://wa.me/9779994422" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Byu Now</span></a>
+                <a href="https://pages.razorpay.com/gutintelligenceworkshop" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Reserve Now</span></a>
               </div>
 
             </div>

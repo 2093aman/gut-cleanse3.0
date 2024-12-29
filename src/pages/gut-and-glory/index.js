@@ -58,7 +58,7 @@ const Intelligence = () => {
 
   return (
     <div>
-      <div className="entry-banner entry-banner-after  bg-common bgservices ">
+      <div className="entry-banner entry-banner-after  bg-common gut-and-glory ">
         {/* <ReactPlayer
 					url="/video2.mp4"
 					playing={true}
@@ -114,12 +114,19 @@ const Intelligence = () => {
                   </h2>
                 </div>
                 <div className="about-text  ">
+
+                  <p>
+                  Ever notice how a troubled stomach seems to affect everything? That's no coincidence. Your gut isn't just about digestion – it's your body's command center. When it's out of whack, you feel it everywhere: your mood tanks, your energy disappears, and even your favorite foods become enemies.
+                  </p>
                   <p className="mb-5">
                   Stop letting digestive issues control your life. Gut & Glory™ helps you break free from bloating, weird food reactions, and that frustrating afternoon energy crash. In just 14 days, you'll discover how amazing you can feel when your gut works with you, not against you.
 
 
                   </p>
                 </div>
+                <div class="call-to-action-btn ">
+                <a href="https://pages.razorpay.com/gutandgloryTM" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Reserve Now</span></a>
+              </div>
 
               </div>
             </div>
@@ -294,7 +301,7 @@ const Intelligence = () => {
                     depending on what you&apos;re looking for. Here are some
                     common reasons people choose clinics like Lorem:
                   </p> */}
-                  <ul className="list-item">
+                  <ul className="list-item ponter-text">
                     <p><b>14-Day Transformation Plan with Expert Guidance</b></p>
                     <li>
 
@@ -396,7 +403,7 @@ const Intelligence = () => {
                             style={{ width: "auto", height: "auto" }}
                           />
                         </span>{" "}
-                        Bi-Weekly Check-Ins for continuous support, progress tracking, and adjustments                      </h4>
+                        Bi-Weekly Check-Ins for continuous support, progress tracking, and adjustments</h4>
                     </li>
                    <p><b>Personalized Nutrition & Support
                    </b></p>
@@ -684,7 +691,7 @@ const Intelligence = () => {
             </div>
 
             <div className="col-sm-6 col-d-4 col-lg-6 col-md-12">
-              <div className="fancybox-item" data-aos="fade-up">
+              <div className="fancybox-item gut-grr" data-aos="fade-up">
                 <div className="fancybox-body  d-flex">
                   {/* <div className="icon zoom-in-zoom-out">
                     <Image
@@ -703,10 +710,8 @@ const Intelligence = () => {
                     <p>
                     Transform your health in just 14 days with Gut & Glory™, now available for an exclusive price of ₹6300! This limited-time offer includes expert guidance, personalized support, and proven strategies to help you reclaim your gut health and vitality. Don't miss your chance to experience the life-changing benefits of a healthy gut at a fraction of the cost. Secure your spot today and start your journey to digestive freedom!
 
-
+                    </p>
                     
-                    </p><br></br>
-                    <p>{" "}</p>  <p>{" "}</p> 
                   </div>
                 </div>
               </div>
@@ -723,12 +728,12 @@ const Intelligence = () => {
 
             <div className="col-sm-12 col-md-12 col-lg-12 col-xl-12 ">
 
-              <h3 className=" text-center">Reserve your place now for just ₹6300 and begin your path to optimal health!
+              <h3 className=" text-center">Reserve your spot now for just ₹6300 and begin your path to optimal health!
 
               </h3>
 
               <div class="call-to-action-btn paybtn">
-                <a href="https://wa.me/9779994422" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Byu Now</span></a>
+                <a href="https://pages.razorpay.com/gutandgloryTM" target="_blank" class="item-btn-phone btn-blue theme-btn"><span>Reserve Now</span></a>
               </div>
 
             </div>

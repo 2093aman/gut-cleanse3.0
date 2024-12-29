@@ -146,7 +146,7 @@ const Footer = () => {
         <section className="footer-top-wrap">
           <div className="container">
             <div className="row">
-              <div className="single-item col-lg-4 col-md-6 col-12">
+              <div className="single-item col-lg-3 col-md-6 col-12">
                 <div className="footer-box">
                   <div className="footer-header">
                     <a href="/" className="temp-logo mb-3">
@@ -187,11 +187,11 @@ const Footer = () => {
                         <Link href="/about"> About Us</Link>
                       </li>
                       <li>
-                        <Link href="/services">Our Services</Link>
+                        <Link href="/programs">Programs</Link>
                       </li>
-                      {/* <li>
-                        <Link href="/careers">Careers</Link>
-                      </li> */}
+                      <li>
+                        <Link href="/our-process">Our Process</Link>
+                      </li>
                       <li>
                         <Link href="/contactus">Contact Us</Link>
                       </li>
@@ -200,21 +200,21 @@ const Footer = () => {
                 </div>
               </div>
 
-              <div className="single-item col-lg-2 col-md-6 col-12">
+              <div className="single-item col-lg-3 col-md-6 col-12">
                 <div className="footer-box">
                   <div className="footer-header">
-                    <h3>Services</h3>
+                    <h3>Programs</h3>
                   </div>
                   <div className="footer-quick-link">
                     <ul>
                       <li>
-                        <Link href="/our-program">Gut Reset Revolution™</Link>
+                        <Link href="/programs">Gut Reset Revolution™</Link>
                       </li>
                       <li>
-                        <Link href="/our-program">Gut & Glory™</Link>
+                        <Link href="/programs">Gut & Glory™</Link>
                       </li>
                       <li>
-                        <Link target="" href="/our-program">
+                        <Link target="" href="/programs">
                         Gut Intelligence Workshop
                         </Link>
                       </li>
