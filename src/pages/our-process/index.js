@@ -248,17 +248,29 @@ const OurProcess = () => {
 
 
       <section className="call-to-action-wrap-layout4">
-        <div className="item-Image">
-        </div>
+        <div className="item-Image"></div>
         <div className="container">
           <div className="row">
             <div className="col-xl-12 col-lg-12 col-md-12 col-12">
               <div className="call-to-action-box-layout4" data-aos="zoom-in">
-                <h2 className="item-title">For more information about our services or to speak with a representative from our Houston Community Clinic, please feel free to contact us or give us a call today.</h2>
+                <h2 className="item-title">
+                  Explore Our Natural Gut Cleanse Programs and Improve Your
+                  Digestive Health! Begin your journey to optimal digestive
+                  wellness
+                </h2>
 
                 <div className="call-to-action-btn">
-                  <Link href="#" className="btn-red theme-btn"><span>Book an Appointment</span></Link>
-                  <span class="or">&nbsp; &nbsp;or&nbsp;&nbsp;</span>  <Link href="tel:+17137730803" className="item-btn-phone btn-blue theme-btn"><span>Call Us: (713) 773-0803</span></Link>
+                  <Link href="/our-program" className="btn-red theme-btn">
+                    <span>OUR PROGRAMS</span>
+                  </Link>
+                  <span class="or">&nbsp; &nbsp;or&nbsp;&nbsp;</span>{" "}
+                  <a
+                    href="https://wa.me/9779994422"
+                    target="_blank"
+                    className="item-btn-phone btn-blue theme-btn"
+                  >
+                    <span>Call: 9779994422 </span>
+                  </a>
                 </div>
               </div>
             </div>

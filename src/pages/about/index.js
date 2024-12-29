@@ -398,7 +398,7 @@ const About = () => {
                 </div>
                 <h3>Excellence</h3>
                 <p>
-                  Our Program are progressive — effective, comprehensive and of
+                  Our programs are progressive — effective, comprehensive and of
                   the highest quality.
                 </p>
               </div>
@@ -425,7 +425,7 @@ const About = () => {
                 </div>
                 <h3>Fiscal Soundness</h3>
                 <p>
-                  Our operations are efficient, our program affordable, and we
+                  Our operations are efficient, our programs affordable, and we
                   maximize all resources.
                 </p>
               </div>
@@ -1029,7 +1029,7 @@ const About = () => {
         </div>
       </section>  
       
-        <section className="pt-100 pb-100 bg-light-accent100">
+        <section className="pt-pb-100 pb-lg-100 bg-light-accent100">
         <div className="item-Image"></div>
         <div className="container">
           <div className="row">

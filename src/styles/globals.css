@@ -4526,6 +4526,7 @@ a.temp-logo img {
 
 .call-to-action-box-layout4 {
   text-align: center;
+  padding: 60px;
 }
 
 .call-to-action-box-layout4 .item-title {
@@ -14160,11 +14161,35 @@ section.bannerbelow-area {
 .bgservices {
   z-index: 2;
   position: relative;
-  background: url(../../public/servicebg.jpg) top center no-repeat;
+  background: url(../../public/programs.jpg)   no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+.bgoneonone {
+  z-index: 2;
+  position: relative;
+  background: url(../../public/HeroImage.jpg) top center no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.gut-and-glory{
+  z-index: 2;
+  position: relative;
+  background: url(../../public/gut-and-glory.jpg) top center no-repeat;
   background-size: cover;
   background-position: center;
 }
 
+
+
+
+.gut-intelligence-workshop{
+  z-index: 2;
+  position: relative;
+  background: url(../../public/gut-intelligence.jpg) top center no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 .processBg {
   z-index: 2;
   position: relative;
@@ -17266,8 +17291,8 @@ font-weight: 600;
 
 
 .accordion-button {
-  background-color: #f8f9fa;
-  border: 1px solid #e0e0e0;
+  background-color: #f1f7fa;
+  border: 1px solid #a1b6c0;
   border-radius: 5px;
   color: #000;
   font-size: 20px;
@@ -17490,6 +17515,7 @@ h3.text-center {
   font-size: 14px;
   font-weight: 500;
   padding-left: 20px;
+  margin-left: 10px;
 }
 
 .gut-health-list::before {
@@ -17536,3 +17562,126 @@ h3.text-center {
   margin: 0px;
   line-height: 65px;
 }
+
+
+.nut-btn{
+  margin-top: 20px;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 768px) and (max-width: 2500px) { 
+
+  .box-ser{
+    height: 380px;
+  }
+  .gut-grr{
+    height: 388px;
+  }
+  
+  .ponter-text h4{
+    font-size:16px!important;
+  }
+}
+
+.ponter-text p {
+  font-size: 20px;
+}
+
+@media (min-width: 320px) and (max-width: 768px) { 
+  .banner-section h1 {
+    font-size: 33px;
+    font-weight: bold;
+    color: #fff;
+}
+.hombnr {
+  margin-right:0px;
+}
+.about-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: auto;
+}
+
+.digestive {
+  width: 100% !important;
+  height: auto !important;
+  object-fit: contain;
+}
+.about-text{
+  text-align: center;
+}
+.imageset-hom img{
+  height: 200px!important;
+}
+.imageset-hom {
+  height: auto !important;;
+}
+.set-btm {
+  position: absolute;
+  bottom: -8px;
+  left: 31%;
+}
+.banner-box-layout1 p {
+  color: #fff;
+  font-size: 14px;
+}
+.banner-box-layout1 .item-title {
+  font-size: 30px;
+}
+.banner-box-layout1 {
+  color: #fff;
+  padding: 0px 0px 20px;
+  text-align: center;
+}
+
+.banner-wrap-layout1 {
+  padding: 5rem 0;
+}
+
+.call-to-action-box-layout4 {
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+}
+.call-to-action-box-layout4 .item-title {
+  font-size: 21px;
+}
+
+.gut-margin {
+  margin: 0px 0px;
+}
+.container {
+  padding: 0 10px;
+}
+
+.gut-health {
+  background: #fff;
+  margin: 10px;
+  padding: 25px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.gut-health h2 {
+
+  font-size: 21px;
+  
+}
+
+h4.fancybox-title, .weeklist {
+  font-weight: bold;
+  text-align: center;
+}
+.cardprice{
+  justify-content: center;
+}
+.section-title-2 h2 {
+  font-size: 28px;
+}
+ }
