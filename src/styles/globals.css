@@ -14158,6 +14158,14 @@ section.bannerbelow-area {
   background-position: top;
 }
 
+.homeEwq{
+  z-index: 2;
+  position: relative;
+  background: url(../../public/homeqa.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
 .bgservices {
   z-index: 2;
   position: relative;
