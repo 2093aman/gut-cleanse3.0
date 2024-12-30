@@ -88,7 +88,8 @@ const home = () => {
         </div>
       </div>
  {/* aa add  */}
-      {/* <section className="bannerbelow-area">
+      {/* <section className="bannerbelow-area"> 
+              // dkffkroget
                 <div className="container-fluid">
                     <div className="row ">
                         <div className="col-xl-4 col-lg-4 bg-darkred text-white p-20 d-flex align-items-center">
