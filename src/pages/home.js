@@ -51,7 +51,7 @@ const home = () => {
     <div>
       <div className="banner-section">
         <ReactPlayer
-          url="/homevideoiuu.mp4"
+          url="/homevideo.mp4"
           playing={true}
           autoplaying={true}
           loop={true}
