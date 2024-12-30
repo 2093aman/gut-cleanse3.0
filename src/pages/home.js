@@ -49,8 +49,8 @@ const responsive1 = {
 const home = () => {
   return (
     <div>
-      <div className="banner-section">
-        <ReactPlayer
+      <div className="banner-section homeEwq">
+        {/* <ReactPlayer
           url="/homevideo.mp4"
           playing={true}
           autoplaying={true}
@@ -60,7 +60,7 @@ const home = () => {
           width={"100%"}
           height={"100%"}
           webkit-playsinline={true}
-        />
+        /> */}
 
         <div className="container">
           <div className="row">
