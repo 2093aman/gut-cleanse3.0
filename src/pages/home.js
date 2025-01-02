@@ -49,8 +49,8 @@ const responsive1 = {
 const home = () => {
   return (
     <div>
-      <div className="banner-section homeEwq">
-        {/* <ReactPlayer
+      <div className="banner-section">
+        <ReactPlayer
           url="/homevideo.mp4"
           playing={true}
           autoplaying={true}
@@ -60,7 +60,7 @@ const home = () => {
           width={"100%"}
           height={"100%"}
           webkit-playsinline={true}
-        /> */}
+        />
 
         <div className="container">
           <div className="row">
@@ -80,16 +80,15 @@ const home = () => {
               >
                 <span>About Us </span>
               </a>
-              <a href="#" className="btn-red mt-4 " data-bs-toggle="modal">
+              <a href="/programs" className="btn-red mt-4 " data-bs-toggle="modal">
                 <span>Enroll now</span>
               </a>
             </div>
           </div>
         </div>
       </div>
- {/* aa add  */}
-      {/* <section className="bannerbelow-area"> 
-              // dkffkroget
+
+      {/* <section className="bannerbelow-area">
                 <div className="container-fluid">
                     <div className="row ">
                         <div className="col-xl-4 col-lg-4 bg-darkred text-white p-20 d-flex align-items-center">
@@ -432,7 +431,7 @@ const home = () => {
                         </li>
                       </ul>
                       <Link
-                        href="/about#history"
+                        href="/programs"
                         className="btn-red theme-btn mt-4"
                       >
                         Enroll now
@@ -481,7 +480,7 @@ const home = () => {
                     />
                   </div>
                   <h3 className="item-title">
-                    <Link href="/our-program">1:1 Gut Reset Revolution™</Link>
+                    <Link href="/one-one-gut-reset-revolution">1:1 Gut Reset Revolution™</Link>
                   </h3>
                   <p>
                     Transform your relationship with health through our
@@ -490,7 +489,7 @@ const home = () => {
                     we help you unlock lasting vitality by harmonizing your gut
                     health, hormone balance, and mindful eating practices.
                   </p>
-                  <Link href="/our-program" className="link">
+                  <Link href="/one-one-gut-reset-revolution" className="link">
                     Learn More
                   </Link>
                 </div>
@@ -513,7 +512,7 @@ const home = () => {
                     />
                   </div>
                   <h3 className="item-title">
-                    <Link href="/our-program">Gut & Glory™</Link>
+                    <Link href="/gut-and-glory">Gut & Glory™</Link>
                   </h3>
                   <p>
                     Stop letting digestive issues control your life. Our Gut &
@@ -522,7 +521,7 @@ const home = () => {
                     crash. In just 14 days, you'll discover how amazing you can
                     feel when your gut works with you, not against you.
                   </p>
-                  <Link href="/our-program" className="link">
+                  <Link href="/gut-and-glory" className="link">
                     Learn More
                   </Link>
                 </div>
@@ -545,7 +544,7 @@ const home = () => {
                     />
                   </div>
                   <h3 className="item-title">
-                    <Link href="/our-program">Gut Intelligence Workshop</Link>
+                    <Link href="/gut-intelligence-workshop">Gut Intelligence Workshop</Link>
                   </h3>
                   <p>
                     Your gut is more than just a digestive system - it's your
@@ -555,7 +554,7 @@ const home = () => {
                     orchestrates everything from your immune response to your
                     emotional wellbeing.
                   </p>
-                  <Link href="/our-program" className="link set-btm">
+                  <Link href="/gut-intelligence-workshop" className="link set-btm">
                     Learn More
                   </Link>
                 </div>
