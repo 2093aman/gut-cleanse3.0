@@ -29,11 +29,7 @@ export default function RootLayout({ Component, pageProps }) {
         
         <Component {...pageProps} />
         <Footer />
-        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-        <script
-          type="text/javascript"
-          src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
-        ></script>
+      
       </body>
     </html>
   );
