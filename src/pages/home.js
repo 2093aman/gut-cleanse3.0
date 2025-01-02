@@ -718,7 +718,7 @@ const home = () => {
 
       {/* here is the Health Journey kdfs */}
 
-      {/* here is the Health Journey */}
+      {/* here is the Health Journey hhh*/}
       <section className="banner-wrap-layout1 parallaxie" id="support">
         <div className="container">
           <div className="row">
