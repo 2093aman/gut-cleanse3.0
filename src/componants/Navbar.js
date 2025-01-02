@@ -9,7 +9,6 @@ import {
 import Link from "next/link";
 import { useState } from "react";
 import { useEffect } from "react";
-import Translate from "./TranslateComponent";
 const Navbar = () => {
   const [openDropdown, setOpenDropdown] = useState(null);
 
