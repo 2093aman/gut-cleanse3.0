@@ -49,8 +49,8 @@ const responsive1 = {
 const home = () => {
   return (
     <div>
-      <div className="banner-section homeEwq">
-        {/* <ReactPlayer
+      <div className="banner-section">
+       <ReactPlayer
           url="/homevideo.mp4"
           playing={true}
           autoplaying={true}
@@ -60,7 +60,7 @@ const home = () => {
           width={"100%"}
           height={"100%"}
           webkit-playsinline={true}
-        /> */}
+        /> 
 
         <div className="container">
           <div className="row">
@@ -716,9 +716,9 @@ const home = () => {
         </div>
       </section>
 
-      {/* here is the Health Journey */}
+      {/* here is the Health Journey kdfs */}
 
-      {/* here is the Health Journey */}
+      {/* here is the Health Journey hhh*/}
       <section className="banner-wrap-layout1 parallaxie" id="support">
         <div className="container">
           <div className="row">
